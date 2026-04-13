@@ -35,14 +35,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
----
-
-### 📈 Немного статистики (опционально, добавляет живости)
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК_НА_ГИТХАБ&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК_НА_ГИТХАБ&layout=compact&theme=github_dark&hide_border=true" />
-</p>
 
 ---
 
