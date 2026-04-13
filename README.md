@@ -50,5 +50,5 @@
 
 ### 📫 Как связаться
 
-*   **Telegram:** [@ТвойЮзернейм](https://t.me/ТвойЮзернейм)
+*   **Telegram:** [@Beaulo0_o](https://t.me/Beaulo0_o)
 *   **Резюме:** [Ссылка на Google Docs / PDF](ссылка)
