@@ -1,14 +1,11 @@
-### 👋 Привет! Я [Твое Имя] — студент КФ МГТУ им. Баумана
+### 👋 Привет! Я Баландин Родион — студент КФ МГТУ им. Баумана
 
 <p align="left">
   <!-- Ссылки с иконками -->
-  <a href="ССЫЛКА_НА_ТЕЛЕГРАМ">
+  <a href="t.me/Beaulo0_o">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="ССЫЛКА_НА_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ТВОЯ@ПОЧТА.ru">
+  <a href="mailto:https://myaccount.google.com/u/3/?hl=ru&utm_source=OGB&utm_medium=act&gar=WzEyMF0&pli=1">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
