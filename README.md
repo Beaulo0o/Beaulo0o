@@ -2,7 +2,7 @@
 
 <p align="left">
   <!-- Ссылки с иконками -->
-  <a href="t.me/Beaulo0_o">
+  <a href="https://t.me/Beaulo0_o">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:https://myaccount.google.com/u/3/?hl=ru&utm_source=OGB&utm_medium=act&gar=WzEyMF0&pli=1">
