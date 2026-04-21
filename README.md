@@ -45,10 +45,10 @@
 
 | Название | Описание | Стек |
 |----------|----------|------|
-| [**Анализ маршрутов Ozon**](https://github.com/Beaulo0o/logistics-route-analyzer) | Учебный проект: обработка логов логистики, поиск узких мест в SQL и визуализация в Python. | `Pandas`, `Matplotlib`, `SQL` |
-| [**API Автотесты (Pet-проект)**](ссылка) | Автоматизация проверок REST API сервиса для тренировки навыков AQA. | `Python`, `Pytest`, `Requests` |
-| [**Парсер вакансий с HH.ru**](ссылка) | Скрипт для сбора и анализа требований к Junior DS. | `BeautifulSoup`, `Pandas` |
-
+| [**Zonik Marketplace**](ссылка) | Высокопроизводительное ядро БД для e-commerce платформы с мультивендорной архитектурой, аналитическим слоем и автоматизированной бизнес-логикой. | `PostgreSQL` `Python` `Docker` |
+| [**ETL Pipeline: Sales & Weather Analytics**](ссылка) | Полноценный ETL-пайплайн для сопоставления данных о продажах с погодными условиями. Оркестрация через Airflow, хранение сырых данных в MinIO, финальная доставка в PostgreSQL и Excel-отчёты. | `Apache Airflow` `PostgreSQL` `Python` `Docker` `MinIO` `WSL2` |
+| [**Swagger Pet Tester**](ссылка) | Набор автотестов для API Petstore с трёхуровневой архитектурой, валидацией через Pydantic и CI/CD на GitHub Actions. | `Python` `Pytest` `Requests` `Docker` `GitHub Actions` |
+| [**Logistics Route Analyzer**](https://github.com/Beaulo0o/logistics-route-analyzer) | Учебный проект по анализу логистических маршрутов: поиск узких мест в цепочке поставок с помощью SQL и визуализация bottlenecks в Python. | `Python` `SQLite` `Pandas` `Matplotlib` `Jupyter` `Faker` |
 ---
 
 ###  Как связаться
