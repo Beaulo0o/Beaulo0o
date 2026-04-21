@@ -1,4 +1,4 @@
-### 👋 Привет! Я Баландин Родион — студент КФ МГТУ им. Баумана
+###  Привет! Я Баландин Родион — студент КФ МГТУ им. Баумана
 
 <p align="left">
   <!-- Ссылки с иконками -->
@@ -12,17 +12,17 @@
 
 ---
 
-### 🧠 Обо мне
+###  Обо мне
 
 Я учусь на направлении **Data Science и Аналитика**. Люблю копаться в данных, автоматизировать скучное и проверять гипотезы.
 
-*   🎯 **Цель сейчас:** Стажировка в роли **Data Analyst / QA Automation (Python)**.
+*   🎯 **Цель сейчас:** Стажировка в роли **Data Analyst / PythonDev**.
 *   📍 **Локация:** Калуга / Москва (гибрид / удаленка).
-*   ⚙️ **Рабочий процесс:** Jupyter Notebook, VS Code, терминал, чашка крепкого чая.
+*   ⚙️ **Рабочий процесс:** NotePad+, PyCharm, PowerShell и лимитированный адреналин.
 
 ---
 
-### 🛠 Мой технический стек
+###  Мой технический стек
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,6 +33,15 @@
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" />
+  <img src="https://img.shields.io/badge/WSL2-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Faker-6B8E23?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 
@@ -48,7 +57,7 @@
 
 ---
 
-### 📫 Как связаться
+###  Как связаться
 
 *   **Telegram:** [@Beaulo0_o](https://t.me/Beaulo0_o)
 *   **Резюме:** [Ссылка на Google Docs](https://docs.google.com/document/d/1hNCan3S6AFK4T8Fs4R9H2Ea9mowY_R4C/edit?usp=drive_link&ouid=114944807360766884256&rtpof=true&sd=true)
