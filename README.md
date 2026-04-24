@@ -53,4 +53,4 @@
 ###  Как связаться
 
 *   **Telegram:** [@Beaulo0_o](https://t.me/Beaulo0_o)
-*   **Резюме:** [Ссылка на Google Docs](https://docs.google.com/document/d/1hNCan3S6AFK4T8Fs4R9H2Ea9mowY_R4C/edit?usp=drive_link&ouid=114944807360766884256&rtpof=true&sd=true)
+*   **Резюме:** [Ссылка на Google Docs](https://docs.google.com/document/d/1VozHuH8irzMkjkDKsL8qa6OyBnCgyi76/edit)
